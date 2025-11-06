@@ -5,6 +5,9 @@ This project is a web-based AI chatbot application built using **FastAPI** for t
 
 The project demonstrates integration of large language models, conversational AI agents, and a simple UI to interact with AI in real time.
 
+<img width="1871" height="861" alt="Screenshot 2025-11-06 193306" src="https://github.com/user-attachments/assets/9cf0333d-f6f2-4876-bc8f-ef3c3e5af223" />
+
+
 ---
 
 ## Features
